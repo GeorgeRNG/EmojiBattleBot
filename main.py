@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 
 prefix = "!"
-mytoken = "ODMxODk3ODIxNTgxMDE3MDkw.YHb7OA.sBaoe0t90ucsKbe_0wUYgnhRcp8"
+mytoken = ""
 
 load_dotenv()
 TOKEN = os.getenv(mytoken)
